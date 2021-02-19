@@ -1,2 +1,2 @@
-## No quiero subir los modulos
-/node_modules
+## No quiero subir los modulos a github
+node_modules/
